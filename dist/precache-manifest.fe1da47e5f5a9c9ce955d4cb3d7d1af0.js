@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/dona-lola/dist/js/chunk-vendors.fe6448b9.js"
   },
   {
-    "revision": "6d8d4ab375dbc82d5477",
-    "url": "/dona-lola/dist/js/app.a5232482.js"
+    "revision": "2ed3dd0e023425c270a6",
+    "url": "/dona-lola/dist/js/app.26781383.js"
   },
   {
     "revision": "63252155dca5695b5b8c",
     "url": "/dona-lola/dist/js/about.6fe3c8de.js"
   },
   {
-    "revision": "9517b6088ffb197d8119cbc220ff3430",
+    "revision": "1e1a988fde1abe1c7c84d047c6ed3b48",
     "url": "/dona-lola/dist/index.html"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/dona-lola/dist/css/chunk-vendors.5cf92f0a.css"
   },
   {
-    "revision": "6d8d4ab375dbc82d5477",
-    "url": "/dona-lola/dist/css/app.02f55dc3.css"
+    "revision": "2ed3dd0e023425c270a6",
+    "url": "/dona-lola/dist/css/app.b50dc67d.css"
   }
 ];
