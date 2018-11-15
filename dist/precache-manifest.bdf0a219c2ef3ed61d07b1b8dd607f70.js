@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/dona-lola/dist/js/about.6fe3c8de.js"
   },
   {
-    "revision": "14a989ce53f02a55dcf8",
-    "url": "/dona-lola/dist/js/app.dfa56f80.js"
+    "revision": "1abc01efef5e75ae5abf",
+    "url": "/dona-lola/dist/js/app.10b83ad1.js"
   },
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/dona-lola/dist/img/order-status.png"
   },
   {
-    "revision": "3540a2eabb66c62309c807576d0c4469",
+    "revision": "69f52e734719ebdd6ea3a21a708f230b",
     "url": "/dona-lola/dist/index.html"
   },
   {
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/dona-lola/dist/css/chunk-vendors.51a27a13.css"
   },
   {
-    "revision": "14a989ce53f02a55dcf8",
+    "revision": "1abc01efef5e75ae5abf",
     "url": "/dona-lola/dist/css/app.5a975d5b.css"
   }
 ];
