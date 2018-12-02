@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/dona-lola/dist/img/logo.0bd94bfb.png"
   },
   {
+    "revision": "63252155dca5695b5b8c",
+    "url": "/dona-lola/dist/js/about.6fe3c8de.js"
+  },
+  {
+    "revision": "d32cd01dd49f399f339e",
+    "url": "/dona-lola/dist/js/app.c4fb369e.js"
+  },
+  {
     "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/dona-lola/dist/robots.txt"
-  },
-  {
-    "revision": "662c51cc73d3463b72b62f6d6a185ad1",
-    "url": "/dona-lola/dist/img/bg.662c51cc.jpg"
-  },
-  {
-    "revision": "3f514bc3661f8dd3ad6b",
-    "url": "/dona-lola/dist/js/app.dad2e175.js"
   },
   {
     "revision": "42cf8e136406fde9f116",
@@ -24,16 +24,12 @@ self.__precacheManifest = [
     "url": "/dona-lola/dist/img/curso.6585fed7.png"
   },
   {
-    "revision": "63252155dca5695b5b8c",
-    "url": "/dona-lola/dist/js/about.6fe3c8de.js"
-  },
-  {
-    "revision": "bc1d7c3c044ec0333dd38869626428db",
-    "url": "/dona-lola/dist/index.html"
-  },
-  {
     "revision": "fb50b0105565781eb32327babe9b4a38",
     "url": "/dona-lola/dist/img/order-status.png"
+  },
+  {
+    "revision": "761f7c67b34867d6a39390714a5c3318",
+    "url": "/dona-lola/dist/index.html"
   },
   {
     "revision": "fb50b0105565781eb32327babe9b4a38",
@@ -56,11 +52,15 @@ self.__precacheManifest = [
     "url": "/dona-lola/dist/img/chef.png"
   },
   {
+    "revision": "662c51cc73d3463b72b62f6d6a185ad1",
+    "url": "/dona-lola/dist/img/bg.662c51cc.jpg"
+  },
+  {
     "revision": "42cf8e136406fde9f116",
     "url": "/dona-lola/dist/css/chunk-vendors.51a27a13.css"
   },
   {
-    "revision": "3f514bc3661f8dd3ad6b",
-    "url": "/dona-lola/dist/css/app.edc9b58a.css"
+    "revision": "d32cd01dd49f399f339e",
+    "url": "/dona-lola/dist/css/app.b1042104.css"
   }
 ];
